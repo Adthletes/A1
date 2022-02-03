@@ -1,45 +1,36 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "ADTHLETE: unleash your potential"
+image: "1.jpg"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
-  - label: Twitter
+  - label: Guillem's Resume
+    url: "https://drive.google.com/file/d/1y5Ij5piGhiUGgj_UjtVpW4nqUVzt50Z9/view?usp=sharing"
+  - label: Morgan's Resume
     url: "https://twitter.com/"
+  - label: Encuesta
+    url: "https://my.forms.app/form/61f2b9a1ed8dd6152824cef2"
+  - label: Email
+    url: "mailto:hello.adthlete@gmail.com"
 output:
-  postcards::solana
+  postcards::trestles
 ---
  
-## Bio
+## ¿Quienes somos?
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+Adthlete nace a partir de la idea de dos compañeros de equipo con el sueño de mejorar el rugby español, aportando un campus de rugby para jugadores de categorias inferiores que sueñen con llegar a lo más alto.
+
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**universitat de Barcelona** | Cambridge, MA
 
-M.B.A. | August 2014 - June 2015
+Ph.D. in Computer Science | September 2009 - May 2014
 
-**The Juilliard School** | New York, NY
+**Universitat Ramon Llull** | Berkeley, CA
 
-B.F.A. in Music Performance | August 2005 - May 2009
+B.S. in Computer Science | September 2005 - May 2009
 
 ## Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**Google Brain** | Principal Investigator | January 2018 - Present
 
-**Cercle** | Producer | August 2018 - Present
-
-**National Public Radio** | Producer | May 2015 - July 2018
-
-**NME Magazine** | Editor | July 2014 - July 2016
-
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+**Netflix** | Research Scientist | June 2014 - December 2017
