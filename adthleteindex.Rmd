@@ -1,0 +1,40 @@
+---
+image: "1.jpg"
+links:
+  - label: Guillem's Resume
+    url: "https://drive.google.com/file/d/1oLG4qmSwptRV-IID_n7SGJNZ8QpATAH6/view?usp=sharing"
+  - label: Morgan's Resume
+    url: "https://drive.google.com/file/d/1eVlXu-GctC0bxMXJzy9QuS5iMBoG3adz/view?usp=sharing"
+  - label: Encuesta
+    url: "https://my.forms.app/form/61f2b9a1ed8dd6152824cef2"
+  - label: Email
+    url: "mailto:hello.adthlete@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## ¿Quienes somos?
+
+Adthlete nace a partir de la idea de dos compañeros de equipo con el sueño de generar experiencias únicas para el amante del rugby. A través de Stages en España y Gales, tratamos de proporcionar al fanático del rugby con vivencias que le hará crecer como persona y como jugador.
+
+
+## La Encuesta
+
+Adthlete nace a partir de la idea de dos compañeros de equipo con el sueño de generar experiencias únicas para el amante del rugby. A través de Stages en España y Gales, tratamos de proporcionar al fanático del rugby con vivencias que le hará crecer como persona y como jugador.
+
+
+## Educación
+
+
+##### **Morgan** | Barcelona, España
+
+
+* **Universitat Ramon Llull** | B.S. in Sport Management | *2017 - 2021*
+* **The Power MBA** | Master en Marketing | *2020 - 2021*
+
+
+##### **Guillem** | Mallorca, España
+
+
+* **Universitat de Barcelona** | Grado en Ciencias de la Actividad Física y el Deporte | *2017 - 2021*
+* **Universitat de Barcelona** | Master Alto Rendimiento en Deportes Colectivos | *Cursando*
