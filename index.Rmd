@@ -1,11 +1,10 @@
 ---
-title: "ADTHLETE: unleash your potential"
 image: "1.jpg"
 links:
   - label: Guillem's Resume
-    url: "https://drive.google.com/file/d/1y5Ij5piGhiUGgj_UjtVpW4nqUVzt50Z9/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1oLG4qmSwptRV-IID_n7SGJNZ8QpATAH6/view?usp=sharing"
   - label: Morgan's Resume
-    url: "https://twitter.com/"
+    url: "https://drive.google.com/file/d/1eVlXu-GctC0bxMXJzy9QuS5iMBoG3adz/view?usp=sharing"
   - label: Encuesta
     url: "https://my.forms.app/form/61f2b9a1ed8dd6152824cef2"
   - label: Email
@@ -16,21 +15,26 @@ output:
  
 ## ¿Quienes somos?
 
-Adthlete nace a partir de la idea de dos compañeros de equipo con el sueño de mejorar el rugby español, aportando un campus de rugby para jugadores de categorias inferiores que sueñen con llegar a lo más alto.
+Adthlete nace a partir de la idea de dos compañeros de equipo con el sueño de generar experiencias únicas para el amante del rugby. A través de Stages en España y Gales, tratamos de proporcionar al fanático del rugby con vivencias que le hará crecer como persona y como jugador.
 
 
-## Education
+## La Encuesta
 
-**universitat de Barcelona** | Cambridge, MA
+Adthlete nace a partir de la idea de dos compañeros de equipo con el sueño de generar experiencias únicas para el amante del rugby. A través de Stages en España y Gales, tratamos de proporcionar al fanático del rugby con vivencias que le hará crecer como persona y como jugador.
 
-Ph.D. in Computer Science | September 2009 - May 2014
 
-**Universitat Ramon Llull** | Berkeley, CA
+## Educación
 
-B.S. in Computer Science | September 2005 - May 2009
 
-## Experience
+##### **Morgan** | Barcelona, España
 
-**Google Brain** | Principal Investigator | January 2018 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+* **Universitat Ramon Llull** | B.S. in Sport Management | *2017 - 2021*
+* **The Power MBA** | Master en Marketing | *2020 - 2021*
+
+
+##### **Guillem** | Mallorca, España
+
+
+* **Universitat de Barcelona** | Grado en Ciencias de la Actividad Física y el Deporte | *2017 - 2021*
+* **Universitat de Barcelona** | Master Alto Rendimiento en Deportes Colectivos | *Cursando*
